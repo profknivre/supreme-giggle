@@ -1,5 +1,3 @@
-__author__ = 'zebrowsk'
-
 quiet_hours = list(range(0, 6)) + list(range(23, 24))
 weekend_quiet_hours = list(range(0, 9)) + list(range(22, 24))
 
