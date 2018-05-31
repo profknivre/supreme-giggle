@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "supreme-giggle"
+version = "0.0.1"
+description = "Beep on (almost) every hour"
+authors = ["Grzegorz Zebrowski <grzegorz.zebrowski@thrust.pl>"]
+license = "Beerware"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.5"
